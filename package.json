@@ -19,6 +19,6 @@
     "url": "https://github.com/18F/development-guide/issues"
   },
   "devDependencies": {
-    "pa11y-ci": "^2.4.0"
+    "pa11y-ci": "^4.1.1"
   }
 }
